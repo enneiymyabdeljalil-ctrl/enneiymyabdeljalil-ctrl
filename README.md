@@ -1,18 +1,78 @@
-# 💫 About Me:
-Create a stunning, premium, and professional GitHub Profile README for **Abdeljalil Enneiymy**, a Full Stack Development student from Morocco.<br><br>I want a modern developer profile that looks impressive, clean, stylish, and visually rich — similar to the profiles of talented software developers on GitHub.<br><br>### 🎯 DESIGN STYLE<br><br>- Dark theme with a black/navy background aesthetic and electric blue, cyan, and purple accents.<br>- A custom animated header banner with my name and the title "Full Stack Developer".<br>- Professional developer badges, technology icons, social buttons, GitHub statistics cards, and contribution activity.<br>- Beautiful section separators, consistent spacing, subtle animations, and a polished layout.<br>- Use valid GitHub-compatible Markdown and HTML where supported.<br><br>### 👨‍💻 ABOUT ME<br><br>My name is Abdeljalil Enneiymy. I am a Full Stack Development student at OFPPT in Morocco, passionate about programming, web technologies, and building useful digital solutions.<br><br>My programming journey started with C, where I developed my understanding of algorithms, logical thinking, memory concepts, and problem-solving. I am now expanding my skills in frontend and backend development, learning how to build complete web applications and understand the technologies behind them.<br><br>I enjoy writing code, exploring new technologies, improving my development workflow, and turning ideas into practical projects. My ambition is to become a professional Full Stack Developer and Software Engineer capable of building reliable, efficient, scalable, and user-friendly applications.<br><br>### 🛠️ TECH STACK<br><br>Organize my technologies into attractive icon-based categories:<br><br>- **Programming Languages:** C, JavaScript, PHP, Python, SQL<br>- **Frontend Development:** HTML5, CSS3, React, Bootstrap<br>- **Backend Development:** PHP and backend programming concepts<br>- **Databases:** MySQL, SQL<br>- **Development Tools:** Git, GitHub, VS Code, Terminal<br><br>Only present these as technologies I am learning or using, not as expert-level skills. Do not claim advanced proficiency in any technology.<br><br>### 🚀 PROFILE SECTIONS<br><br>Create these sections with attractive headings and suitable icons:<br><br>1. A premium animated header with my name and the title "Full Stack Developer".<br>2. About Me — a polished introduction with a professional tone.<br>3. Tech Stack — organized technology icons and badges, including Python.<br>4. What I'm Working On — Full Stack Development, React, backend logic, databases, and programming practice.<br>5. Currently Learning — software engineering, clean code, Git workflows, Python, and application development.<br>6. Featured Projects — create placeholders for real projects instead of inventing any.<br>7. GitHub Stats — profile statistics, contribution streak, and language cards using reliable public services where available.<br>8. Let's Connect — GitHub and a LinkedIn placeholder that I can replace with my real URL.<br>9. A stylish animated footer with a short motivational developer quote.<br><br>### ✨ VISUAL DETAILS<br><br>- Use Shields.io badges and Skill Icons from skillicons.dev where appropriate.<br>- Use carefully selected SVG banners or GIF animations compatible with GitHub.<br>- Add a typing animation with these lines:<br>  - "Full Stack Developer"<br>  - "C Programmer"<br>  - "Python Learner"<br>  - "Lifelong Learner"<br>- Use clean alignment, a consistent color palette, and a balanced layout.<br>- Make the README visually impressive without excessive clutter.<br>- Ensure external image URLs are correctly formatted and use my real GitHub username: `enneiymyabdeljalil-ctrl`.<br>- Include the Python icon alongside C, JavaScript, PHP, SQL, React, HTML, CSS, Bootstrap, MySQL, Git, and GitHub.<br>- Use working image and statistics services where possible, and avoid unnecessary or broken widgets.<br><br>### 📌 FINAL REQUIREMENTS<br><br>Return the complete, ready-to-copy `README.md` source code in one Markdown code block.<br><br>Make it visually rich, detailed, professional, and personalized to a motivated Full Stack Development student in Morocco. Keep Full Stack Development as my main focus and include Python in my programming languages and learning sections.<br><br>Do not invent employment history, certifications, project achievements, or professional experience. Use placeholders for any missing links and project details.
+<div align="center">
 
+# Hi, I'm Abdeljalil Enneiymy 👋
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enneiymeabdeljalil@gmail.com) 
+### Full-Stack Development Student | Morocco 🇲🇦
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=enneiymyabdeljalil-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=enneiymyabdeljalil-ctrl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=enneiymyabdeljalil-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a second-year Development Digital student at OFPPT, interested in software development and building useful web applications.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Learning+Full-Stack+Development;Building+with+React+and+JavaScript;Practicing+Python%2C+PHP+and+SQL)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-enneiymyabdeljalil--ctrl-181717?style=flat&logo=github)](https://github.com/enneiymyabdeljalil-ctrl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abde-ljalil-enneiymy-38795840a)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:enneiymeabdeljalil@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=enneiymyabdeljalil-ctrl&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Studying **Development Digital** at **OFPPT, Morocco**.
+- 💻 Started programming with **C**, developing my foundations in algorithms and problem-solving.
+- 🌱 Currently learning frontend and backend development, databases, and software development practices.
+- 🎯 My goal is to grow into a professional software developer and build reliable, useful applications.
+
+## 🧰 Technologies
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Tools & Databases**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+## 🚀 What I'm Working On
+
+- Practicing React and building small web applications.
+- Improving my JavaScript, PHP, Python, and SQL foundations.
+- Learning how to structure projects and use Git branches effectively.
+
+## 📌 Projects
+
+Explore my repositories for coursework, exercises, and development projects:
+
+[![Repositories](https://img.shields.io/badge/View_my_repositories-181717?style=for-the-badge&logo=github)](https://github.com/enneiymyabdeljalil-ctrl?tab=repositories)
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enneiymyabdeljalil-ctrl&show_icons=true&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enneiymyabdeljalil-ctrl&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always learning. Always building. One step at a time.*
+
+</div>
