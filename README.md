@@ -4,6 +4,7 @@
   </a>
   <img src="./cards/status.svg" width="100%" alt="Student developer at OFPPT in Morocco, learning by building" />
   <img src="./cards/focus.svg" width="100%" alt="Current focus: React, Redux, JavaScript, PHP, MySQL, SQL and MongoDB" />
+  <img src="./cards/stack.svg" width="100%" alt="Technologies and tools I am practicing: HTML, CSS, JavaScript, React, Redux, PHP, MySQL, MongoDB, Git and GitHub" />
 </div>
 
 ## Selected projects

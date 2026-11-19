@@ -175,10 +175,31 @@ def render_contributions():
     save("contributions.svg", s)
 
 
+
+def render_stack():
+    s = start(1000, 198) + text(24, 32, "TECH STACK", 11, CYAN, 700, 2)
+    s += text(24, 57, "Technologies and tools I'm practicing", 16, WHITE, 600)
+    groups = [
+        (24, "01", "FRONTEND", ["HTML · CSS", "JavaScript · React", "Redux"], CYAN),
+        (266, "02", "BACKEND", ["PHP"], BLUE),
+        (508, "03", "DATABASES", ["MySQL", "MongoDB"], VIOLET),
+        (750, "04", "WORKFLOW", ["Git", "GitHub"], "#4ade80"),
+    ]
+    for x, number, heading, items, color in groups:
+        s += box(x, 76, 226, 106)
+        s += f'<g class="reveal2">{text(x+16,101,number,10,color,700)}'
+        s += text(x+16,126,heading,11,MUTED,700,1.1)
+        for index, item in enumerate(items):
+            s += text(x+16,151+index*17,item,12,WHITE,600)
+        s += '</g>'
+    save("stack.svg", s)
+
+
 def main():
     render_hero()
     render_status()
     render_focus()
+    render_stack()
     render_project("project-react.svg","React_2","FRONTEND PRACTICE",
                    "React coursework and hands-on exercises","React · JavaScript",
                    "https://github.com/enneiymyabdeljalil-ctrl/React_2",CYAN)
