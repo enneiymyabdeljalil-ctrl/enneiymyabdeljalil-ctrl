@@ -180,7 +180,7 @@ def render_stack():
     s = start(1000, 198) + text(24, 32, "TECH STACK", 11, CYAN, 700, 2)
     s += text(24, 57, "Technologies and tools I'm practicing", 16, WHITE, 600)
     groups = [
-        (24, "01", "FRONTEND", ["HTML · CSS", "JavaScript · React", "Redux"], CYAN),
+        (24, "01", "FRONTEND", ["HTML · CSS · JS", "React · Redux"], CYAN),
         (266, "02", "BACKEND", ["PHP"], BLUE),
         (508, "03", "DATABASES", ["MySQL", "MongoDB"], VIOLET),
         (750, "04", "WORKFLOW", ["Git", "GitHub"], "#4ade80"),
