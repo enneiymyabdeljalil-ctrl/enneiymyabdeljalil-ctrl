@@ -9,7 +9,7 @@ token=os.getenv("GH_PAT")
 if not token: sys.exit("Add repository secret GH_PAT with read:user permission, then rerun this workflow.")
 today=date.today()
 query="""query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}"""
-body={"query":query,"variables":{"login":"enneiymyabdeljalil-ctrl","from":date(today.year,1,1).isoformat()+"T00:00:00Z","to":today.isoformat()+"T23:59:59Z"}}
+body={"query":query,"variables":{"login":"enneiymyabdeljalil-ctrl","from":(today-timedelta(days=364)).isoformat()+"T00:00:00Z","to":today.isoformat()+"T23:59:59Z"}}
 req=Request("https://api.github.com/graphql",data=json.dumps(body).encode(),headers={"Authorization":"Bearer "+token,"Content-Type":"application/json","User-Agent":"profile-readme-cards"})
 with urlopen(req,timeout=30) as r: result=json.loads(r.read().decode())
 if result.get("errors") or not result.get("data",{}).get("user"): sys.exit("GraphQL error: "+json.dumps(result.get("errors")))
